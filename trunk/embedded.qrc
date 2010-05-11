@@ -1,0 +1,8 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>embedded/icon_excel.png</file>
+     <file>embedded/icon_oocalc.png</file>
+     <file>embedded/icon_quattropro.png</file>
+     <file>embedded/icon_unlimited.png</file>
+ </qresource>
+ </RCC>
